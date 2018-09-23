@@ -1,0 +1,57 @@
+                  List of relations
+ Schema |           Name            | Type  |  Owner  
+--------+---------------------------+-------+---------
+ public | acad_object_groups        | table | khua918
+ public | academic_standing         | table | khua918
+ public | affiliations              | table | khua918
+ public | books                     | table | khua918
+ public | buildings                 | table | khua918
+ public | class_enrolment_waitlist  | table | khua918
+ public | class_enrolments          | table | khua918
+ public | class_teachers            | table | khua918
+ public | class_types               | table | khua918
+ public | classes                   | table | khua918
+ public | countries                 | table | khua918
+ public | course_books              | table | khua918
+ public | course_enrolment_waitlist | table | khua918
+ public | course_enrolments         | table | khua918
+ public | course_quotas             | table | khua918
+ public | course_staff              | table | khua918
+ public | courses                   | table | khua918
+ public | degree_types              | table | khua918
+ public | degrees_awarded           | table | khua918
+ public | external_subjects         | table | khua918
+ public | facilities                | table | khua918
+ public | orgunit_groups            | table | khua918
+ public | orgunit_types             | table | khua918
+ public | orgunits                  | table | khua918
+ public | people                    | table | khua918
+ public | program_degrees           | table | khua918
+ public | program_enrolments        | table | khua918
+ public | program_group_members     | table | khua918
+ public | program_rules             | table | khua918
+ public | programs                  | table | khua918
+ public | public_holidays           | table | khua918
+ public | room_facilities           | table | khua918
+ public | room_types                | table | khua918
+ public | rooms                     | table | khua918
+ public | rules                     | table | khua918
+ public | rules_for_prog            | view  | khua918
+ public | semesters                 | table | khua918
+ public | staff                     | table | khua918
+ public | staff_role_classes        | table | khua918
+ public | staff_role_types          | table | khua918
+ public | staff_roles               | table | khua918
+ public | stream_enrolments         | table | khua918
+ public | stream_group_members      | table | khua918
+ public | stream_rules              | table | khua918
+ public | stream_types              | table | khua918
+ public | streams                   | table | khua918
+ public | student_groups            | table | khua918
+ public | students                  | table | khua918
+ public | subject_group_members     | table | khua918
+ public | subject_prereqs           | table | khua918
+ public | subjects                  | table | khua918
+ public | variations                | table | khua918
+(52 rows)
+

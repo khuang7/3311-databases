@@ -1,0 +1,12 @@
+#!/srvr/cs3311psql/lib/php525/bin/php
+
+<?
+for ($i = 0; $i < count($argv); $i++) {
+	switch ($i) {
+	case 0:  break;  // ignore cmd name
+	case 1:  echo $argv[$i]; break;
+	default: echo " $argv[$i]"; break;
+	}
+}
+echo "\n";
+?>
